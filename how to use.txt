@@ -4,3 +4,7 @@ first install pillow in your system
 1. open your cmd
 2. type there pip install pillow 
 3. and thats it you can use python script now!
+
+follow me on!
+fb-https://www.facebook.com/shailendrakr007
+insta-https://www.instagram.com/shailendra_kr_007/
